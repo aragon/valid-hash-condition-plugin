@@ -1,0 +1,32 @@
+{
+  "hardhat": {
+    "repo": "condition-1",
+    "address": "0x00E0B50f1fb27b03DE3a6608Bb587C8aefd3d69c",
+    "args": [],
+    "blockNumberOfDeployment": 18020386,
+    "releases": {
+      "1": {
+        "builds": {
+          "1": {
+            "setup": {
+              "name": "ValidHashConditionSetup",
+              "address": "0x1757a98c1333B9dc8D408b194B2279b5AFDF70Cc",
+              "args": [],
+              "blockNumberOfDeployment": 18020387
+            },
+            "implementation": {
+              "name": "ValidHashCondition",
+              "address": "0x2BD787434c527C13Dc633557b7Bc40247F8e50f7",
+              "args": [],
+              "blockNumberOfDeployment": 18020387
+            },
+            "helpers": [],
+            "buildMetadataURI": "ipfs://QmPQp2nyNyQboNnzztsVqwDWCGz8RPWtYuEnATazjNmdQg",
+            "blockNumberOfPublication": 18020388
+          }
+        },
+        "releaseMetadataURI": "ipfs://QmUk4BVtcV1WmRLpxtiBYwVasZhMo31CZTWupq5hsurNBX"
+      }
+    }
+  }
+}
